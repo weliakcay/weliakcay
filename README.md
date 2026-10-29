@@ -1,35 +1,35 @@
 # Veli Akçay
 
-**Open to Implementation / Solutions Engineering / Technical Customer Success roles in hotel-tech & SaaS — Europe, relocating to Germany.**
+**Hospitality & SME digital operations — remote freelance implementation from Antalya, Türkiye (UTC+3).**
 
-**Business Development & Digital Transformation** · Antalya, Türkiye
+I help hotels, restaurants and small businesses turn manual tasks into web tools and automated workflows.
 
-I build AI and automation systems for hospitality and SME operations — software that removes a daily operational headache.
+My background includes more than ten years in hospitality operations and business development, including Maxx Royal and Kaya Palazzo. My digital transformation project engagements began in February 2026. I use that operational experience to define the workflow, build the tool and document the handover.
 
-10+ years in luxury hotel operations (Maxx Royal, Kaya Palazzo) before moving to the product side. That background is the point: I spent a decade at the desk this software is meant to help.
+## What I can help with
 
----
+- Operational forms, QR workflows, notifications and reporting.
+- Websites, landing pages and customer enquiry integrations.
+- n8n workflows, API integrations and supplier-data processing.
 
-### Shipped
+A useful first project is one clearly scoped workflow, website improvement or integration, with agreed acceptance criteria.
 
-| Product | What it does | Stack | Status |
+## Selected work
+
+| Work | What to inspect | Technology | Evidence and status |
 |---|---|---|---|
-| **Greenlog** | Multi-tenant SaaS digitizing hotel operations: QR checklists, photo/signature capture, three-level live alerting, AI form builder | Next.js · Supabase · Vercel AI SDK | Live in hotel operations (client work, private repo) |
-| **Qodla** | Commission-free QR ordering — orders land in the venue's own WhatsApp | Next.js · Supabase | [Live](https://www.qodla.com) · PayTR payments in production |
-| **Mirrorly** | QR-based virtual try-on for boutiques | TypeScript · Gemini API | [Landing](https://mirrorly-landing.vercel.app) |
-| **E-commerce automation** | Multi-supplier XML → marketplace pipeline; 4,010 AI product texts generated for **$0.47 total** LLM cost | Python · n8n · LLM APIs | In production |
-| **CRM & outbound** | Pipeline tracking + export-market prospect discovery for B2B manufacturers | n8n · Apollo.io | In production |
+| **Greenlog** | Hotel operational forms, QR access and alerts | Next.js · Supabase · Vercel AI SDK | [Case study](https://www.surdurulebilirturizm.site/greenlog). Client code is private; the public showcase uses demonstration data. |
+| **Qodla** | QR menus and orders sent to a venue's WhatsApp | Next.js · Supabase | [Public website and labelled example](https://www.qodla.com/). Hosting, payment services and support are separate from marketplace commission. |
+| **Hospitality automation samples** | Guest surveys, supplier XML, daily reporting and a bilingual support bot | n8n | [Public repository](https://github.com/weliakcay/n8n-hospitality-workflows). Sanitized recreations; configure and validate them before use. |
+| **Sustainable tourism publishing** | A content website and its publishing workflow | Next.js · TypeScript · MDX | [Website](https://www.surdurulebilirturizm.site/) · [Source](https://github.com/weliakcay/surdurulebilir-turizm-site). |
+| **Mirrorly** | QR-based boutique virtual try-on prototype | React · TypeScript · Firebase · Kie.ai | [Landing](https://mirrorly-landing.vercel.app/) · [Source](https://github.com/weliakcay/mirrorly-app). Provider-backed end-to-end validation remains a release requirement; see the repository notes. |
 
-Client and employer work lives in private repos — happy to walk through the architecture and the decisions behind any of it.
+Client code stays private. Public examples distinguish demonstration data from production use.
 
----
+## Working together
 
-### Toolbox
+Available for remote freelance projects from Türkiye, with up to 40 hours per week across engagements. We can start by defining one paid task, the required access and a clear completion check.
 
-`Next.js` `TypeScript` `Supabase` `Python` `n8n` `Claude & OpenAI APIs` `Vapi (voice AI)` `Vercel`
+Tools I work with: Next.js, TypeScript, Supabase, Python, n8n, Claude and OpenAI APIs, Vapi and Vercel.
 
-Focus areas: LLM-backed workflows, QR-driven operational tooling, marketplace & e-commerce automation, voice agents tuned for Turkish.
-
----
-
-📁 [Portfolio](https://weliakcay.notion.site/About-Me-435e36bc7fb848e58d4f114ef91bae6e) · 💼 [LinkedIn](https://www.linkedin.com/in/weliakcay) · ✉️ weliakcay@gmail.com · Antalya, Türkiye
+[LinkedIn](https://www.linkedin.com/in/weliakcay/) · [Greenlog case](https://www.surdurulebilirturizm.site/greenlog) · [Email](mailto:weliakcay@gmail.com)
